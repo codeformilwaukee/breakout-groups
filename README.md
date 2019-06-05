@@ -1,4 +1,4 @@
-![CfM Hack Night](../blue_cfm_logo.png "Chi Hack Night")
+![CfM Hack Night](blue-cfm-logo.png "Chi Hack Night")
 
 # CfM Hack Night - Breakout Groups
 
