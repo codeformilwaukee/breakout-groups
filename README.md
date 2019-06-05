@@ -1,8 +1,8 @@
-![CfM Hack Night](blue-cfm-logo.png "Chi Hack Night")
+![CfM Hack Night](blue-cfm-logo.png "CfM Hack Night"=250x250)
 
 # CfM Hack Night - Breakout Groups
 
-Every week at [CfM Hack Night](https://www.meetup.com/Code-for-Milwaukee/), we break out into topic-specific working and learning groups led by regular facilitators to guide conversations, answer questions, and build teams for civic apps. The groups are split into two types: working groups and learning groups.
+Every 3rd Thursday at [CfM Hack Night](https://www.meetup.com/Code-for-Milwaukee/), we break out into topic-specific working and learning groups led by regular facilitators to guide conversations, answer questions, and build teams for civic apps. The groups are split into two types: working groups and learning groups.
 
 These groups change from week to week, with some lasting just a single night to others progressing over several years. To keep track of these fluctuating groups, we use GitHub issues to open, close and update groups over time.
 
