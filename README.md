@@ -1,4 +1,5 @@
-<img src="blue-cfm-logo.png" height="250" width=500">
+
+![CfM Hack Night]<img src="blue-cfm-logo.png" height="250" width=500">
 
 # CfM Hack Night - Breakout Groups
 
