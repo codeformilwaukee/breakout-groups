@@ -1,4 +1,4 @@
-![CfM Hack Night](blue-cfm-logo.png "CfM Hack Night" =250x250)
+![CfM Hack Night](blue-cfm-logo.png "CfM Hack Night"){:height="50%" width="50%"}
 
 # CfM Hack Night - Breakout Groups
 
