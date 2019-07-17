@@ -28,3 +28,5 @@ Where in the space do you meet? Flipping Tables? The cafeteria?
 
 ### Code For Milwaukee slack channel
 The [CfM Slack](https://mke-slack.herokuapp.com/) is a great place to coordinate between hack nights. We encourage you to set one up and share it here!
+
+### As you start your group (whether learning or working) consider the scoping questions in [this document](https://docs.google.com/document/d/1pTKMzBZaWfMA0WLgiB3mvwlt3fbogBoibm1BnFNoVw0/edit?usp=sharing)
